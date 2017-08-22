@@ -1,0 +1,4 @@
+StructuralProxy.attendanceProxy
+StructuralProxy.iAttend
+StructuralProxy.Main
+StructuralProxy.attendance

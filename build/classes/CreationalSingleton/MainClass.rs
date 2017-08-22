@@ -1,0 +1,2 @@
+CreationalSingleton.singleton
+CreationalSingleton.MainClass
